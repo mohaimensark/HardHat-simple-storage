@@ -1,0 +1,1 @@
+# HardHat-simple-storage
